@@ -28,8 +28,8 @@
 
 <!-- <img align="right" alt="coding" height="254" width="380" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdom&label=Profile%20views&color=0e75b6&style=flat" alt="akashdom" /> </p>
-<img align="right" alt="coding" widht="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=akashdom&label=Profile%20views&color=0e75b6&style=flat" alt="akashdom" /> </p>
+<img align="right" alt="coding" widht="300" height="200" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://web.telegram.org/a/"  target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="Akash pal" height="30" width="40"/> </a>
