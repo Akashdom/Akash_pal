@@ -1,4 +1,4 @@
-![logo](https://github.com/Akashdom/Akashdom/blob/main/Black%20Red%20Modern%20Gaming%20Channel%20Banner%20Landscape.png)
+![logo](https://github.com/Akashdom/Akashdom/blob/main/Purple%20Orange%20Illustration%20Content%20Creator%20Profile%20Video.gif)
 <h1 align="center">Hi 👋, I'm Akash pal</h1>
 <h3 align="center">A am the second years student from India</h3>
 
