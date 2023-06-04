@@ -1,5 +1,6 @@
 ![logo](https://github.com/Akashdom/Akashdom/blob/main/Purple%20Orange%20Illustration%20Content%20Creator%20Profile%20Video.gif)<hr>
-<h1 align="center">Hi 👋, I'm Akash pal</h1>
+<p align="center"><img align="center" src="https://www.bing.com/th/id/OGC.ad5652231778cbcd3cf484125dfae372?pid=1.7&rurl=http%3a%2f%2fcdn.lowgif.com%2ffull%2fd19b8b10cebca8ae-.gif&ehk=VxIIDv923HUaUZjD63%2bbPjToAvCOlQ8XFDkcM66s9w4%3d" width="90" height="80"> 
+<h1 align="center">Hi 👋, I'm Akash pal</h1></p>
 <h2 align="center"><img align="center"  width="57" height="50" src="https://www.bing.com/th/id/OGC.0fc85da32d0e51e12880dd702b77a299?pid=1.7&rurl=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d">I am Second year student of the university<img align="center"  width="57" height="50" src="https://www.bing.com/th/id/OGC.0fc85da32d0e51e12880dd702b77a299?pid=1.7&rurl=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d"></h2>
 <hr>
 
@@ -48,4 +49,7 @@
 <h2>My Github Statistics ...</h2>
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=akashdom&show_icons=true&locale=en&layout=compact" alt="akashdom" /></p>
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api?username=akashdom&show_icons=true&locale=en" alt="akashdom" /></p></hr>
-<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashdom&" alt="akashdom" /></p>
+<p><img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=akashdom&" alt="akashdom" /></p></hr>
+
+
+![Hello](https://github.com/Akashdom/Akashdom/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif)
