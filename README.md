@@ -33,7 +33,7 @@
 <img align="right" alt="coding" widht="400" height="300" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://web.telegram.org/a/"  target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="Akash pal" height="30" width="40"/> </a>
+<a href="https:https://th.bing.com/th/id/OIP.L-INdvYrhAM0hXEFcNVYCQAAAA?pid=ImgDet&rs=1"  target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" alt="Akash pal" height="30" width="40"/> </a>
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash pal" height="30" width="40" /></a>
 <a hrgf="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Akash pal" height="30" width="40"/></a>  
 <a href="https://instagram.com/badbuddy_online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badbuddy_online" height="30" width="40" /></a>
